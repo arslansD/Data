@@ -32,6 +32,4 @@ Edit book Page  (below)
 Profile Edit Page (below)
 <img src="OOP%20App%20Screenshots/Profile%20page-third.PNG">
 
-### For more information, please look inside the pdf file "LMS Documentation".
-Although, it should be kept in mind that the documentation does not fully cover the application.
-And for the full experience, you might need the set up.
+
