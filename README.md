@@ -10,7 +10,7 @@ We also added Postgres database to store important data related to the project.
 - Arslan Sultanbek uulu
 - Suiorkul Abdykaiymov
 
-### Set up tutorial:
+### Set up tutorial (Check out The Creation Tutorial in the end):
 Before execute this program, users need to do some works so that it will run properly into their
 system. First, they need to make sure their system is having “JDK”. If they don’t have it then
 they can download from this below link: 
