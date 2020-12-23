@@ -4,7 +4,7 @@
 Нормально. Только не надо больше моё имя как пример брать
 ### 2) Drew Claire Hunt
 Well if its made for someone who understands programming its probably very good.
-If its intended to be read by just anyone well... sry but i'm struggling a lil haha
+If its intended to be read by just anyone well... sry but I don't undestand a thing haha
 ### 3) Baimurat Nusubaliev
 Над над дизайном поработать
 ### 4) Begayim Isaakova
