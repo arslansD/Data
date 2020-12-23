@@ -1,7 +1,7 @@
   #  Feedbacks
   
 ### 1) Daniar Mukash uulu
-Нормально. Только не надо больше моё имя как пример брать
+Нормально. Только не надо больше моё имя как пример брать (добавлять в базу данных)
 ### 2) Drew Claire Hunt
 Well if its made for someone who understands programming its probably very good.
 If its intended to be read by just anyone well... sry but I don't undestand a thing haha
