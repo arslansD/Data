@@ -1,6 +1,6 @@
   #  Feedbacks
   
-### 1) Danniar Mukash uulu
+### 1) Daniar Mukash uulu
 Нормально. Только не надо больше моё имя как пример брать
 ### 2) Drew Claire Hunt
 Well if its made for someone who understands programming its probably very good.
