@@ -1,4 +1,4 @@
-# Database Management System for Library on Javafx and Postgres
+# Database Management System for Ala Too Library on Javafx and Postgres
 ## Description:
 
 This assignment is based on developing a Library Database using Java
