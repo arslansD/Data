@@ -6,6 +6,10 @@ Programming Language. For that I used Java GUI (Graphical User Interface) in thi
 that it will become more users friendly to interact.
 We also added Postgres database to store important data related to the project. 
 
+### Team Members:
+- Arslan Sultanbek uulu
+- Suiorkul Abdykaiymov
+
 ### Set up tutorial:
 Before execute this program, users need to do some works so that it will run properly into their
 system. First, they need to make sure their system is having “JDK”. If they don’t have it then
@@ -50,3 +54,4 @@ Edit book Page  (below)
 Profile Edit Page (below)
 <img src="OOP%20App%20Screenshots/Profile%20page-third.PNG">
 
+See also [Presentation and Usage Tutorial are here](https://github.com/arslansD/OOP-final-project/blob/main/Presentation%20and%20Tutorial/Database%20Management%20System%20for%20Library%20ppt.pdf)
