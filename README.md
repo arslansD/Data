@@ -2,8 +2,8 @@
 ## Description:
 
 This assignment is based on developing a Library Database using Java
-Programming Language. For that I used Java GUI (Graphical User Interface) in this development so
-that it will become more users friendly to interact.
+Programming Language. For that we used Java GUI (Graphical User Interface) in this development so
+that it is user-friendly to interact.
 We also added Postgres database to store important data related to the project. 
 
 ### Team Members:
