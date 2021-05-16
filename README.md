@@ -51,6 +51,6 @@ Profile Edit Page (below)
 <img src="OOP%20App%20Screenshots/Profile%20page-third.PNG">
 
 ### See also:
-### [Presentation is here](https://github.com/arslansD/Data/blob/main/Presentation%20and%20Tutorial/Database%20Management%20System%20for%20Library%20ppt.pdf)
+### [Presentation is here](https://github.com/arslansD/Data/blob/main/Presentation%20and%20Tutorial/Database%20Management%20System%20for%20Library.pdf)
 
 ### [The Creation Tutorial and explanation](https://github.com/arslansD/Data/blob/main/Presentation%20and%20Tutorial/Creation%20Tutorial%20and%20Explanation.pdf)
