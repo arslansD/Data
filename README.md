@@ -2,13 +2,9 @@
 ## Description:
 
 This assignment is based on developing a Library Database using Java
-Programming Language. For that we used Java GUI (Graphical User Interface) in this development so
+Programming Language. For that I used Java GUI (Graphical User Interface) in this development so
 that it is user-friendly to interact.
-We also added Postgres database to store important data related to the project. 
-
-### Team Members:
-- Arslan Sultanbek uulu
-- Suiorkul Abdykaiymov
+I also added Postgres database to store important data related to the project. 
 
 ### Set up tutorial (Check out The Creation Tutorial in the end):
 Before executing this program, users need to do some works so that it will run properly into their
@@ -55,8 +51,6 @@ Profile Edit Page (below)
 <img src="OOP%20App%20Screenshots/Profile%20page-third.PNG">
 
 ### See also:
-### [Presentation is here](https://github.com/arslansD/OOP-final-project/blob/main/Presentation%20and%20Tutorial/Database%20Management%20System%20for%20Library%20ppt.pdf)
+### [Presentation is here](https://github.com/arslansD/Data/blob/main/Presentation%20and%20Tutorial/Database%20Management%20System%20for%20Library%20ppt.pdf)
 
-### [The Creation Tutorial and explanation](https://github.com/arslansD/OOP-final-project/blob/main/Presentation%20and%20Tutorial/Creation%20Tutorial%20and%20Explanation.pdf)
-
-### [Feedback](https://github.com/arslansD/OOP-final-project/blob/main/Feedback.md)
+### [The Creation Tutorial and explanation](https://github.com/arslansD/Data/blob/main/Presentation%20and%20Tutorial/Creation%20Tutorial%20and%20Explanation.pdf)
